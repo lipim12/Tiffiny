@@ -7,4 +7,4 @@ The USP of the app lies in its customization option - that helps a customer cust
 For more details about the detailed software engineering, refer to the document "Report final final".
 
 
-All Credits to the team Innovasion.
+Made by me with team Innovasion.
